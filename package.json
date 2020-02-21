@@ -1,0 +1,19 @@
+{
+    "name": "array-marriage",
+    "version": "1.0.0",
+    "description": "Array merger",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/epicdev-za/array-marriage.git"
+    },
+    "author": "Kalden Swart",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/epicdev-za/array-marraige/issues"
+    },
+    "homepage": "https://github.com/epicdev-za/array-marriage"
+}
