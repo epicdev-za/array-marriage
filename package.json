@@ -1,5 +1,5 @@
 {
-    "name": "array-marriage",
+    "name": "@epicdev/array-marriage",
     "version": "1.0.0",
     "description": "Array merger",
     "main": "index.js",
